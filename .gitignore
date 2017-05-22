@@ -1,4 +1,6 @@
-/data
+/data/*.gz
+/data/*.txt
+/data/*.csv
 /.project
 /tensorflow_logs
 /ipynb/.ipynb_checkpoints
